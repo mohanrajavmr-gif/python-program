@@ -4,7 +4,9 @@ This repository contains a collection of beginner-friendly Python programs, mini
 
 ## 👨‍🎓student deatils
 Name: Mohanraja V
+
 Roll no:621324205034
+
 linkedin id : www.linkedin.com/in/mohanraja-v-71629a354
 
 ## 📂 Project Contents
